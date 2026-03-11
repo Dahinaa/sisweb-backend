@@ -1,4 +1,6 @@
-## API Endpoints
+## User API
+
+Endpoints available:
 
 GET /user
 GET /user/:id
